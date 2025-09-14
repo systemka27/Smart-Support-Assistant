@@ -1,1 +1,1 @@
-# Smart-Support-Assistant
+# Smart Support Assistant
