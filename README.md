@@ -68,7 +68,6 @@
 ## 🛠️ Технологический стек
 
 - **Backend**: Python
-- **AI/ML**: TensorFlow/PyTorch + NLP библиотеки
 - **Database**: PostgreSQL, SQLite
 - **API**: RESTful API + OpenAPI/Swagger
 - **Внешние API**: DeepSeek API
