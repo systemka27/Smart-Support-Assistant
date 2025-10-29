@@ -75,8 +75,6 @@
 - **API**: RESTful API + OpenAPI/Swagger
 - **Внешние API**: DeepSeek API
 - **Real-time**: WebSockets для чата
-- **Monitoring**: Prometheus + Grafana
-- **Хостинг**: Cloud-платформа (PaaS) / VPS
 
 
 ## 🚀 Основные функции
